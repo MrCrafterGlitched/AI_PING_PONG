@@ -1,0 +1,22 @@
+body
+{
+background-repeat: no-repeat;
+background-size: cover;
+}
+.heading{
+    width: 100%;
+}
+.heading button{
+    float: right;
+}
+.heading h3{
+    display: inline;
+}
+#footer{
+    margin: 0px;
+    line-height: 2;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+}
